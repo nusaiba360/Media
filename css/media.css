@@ -1,0 +1,18 @@
+@media only screen and (max-width:768px){
+    body{
+        background-color: white;
+    }
+    p{
+        font-size: 30px;
+        color: black;
+        text-align: left;
+    }
+}
+@media only screen and (max-width:425px){
+    body{
+        text-align: right;
+        font-size: 20px;
+        font-family: 'Courier New', Courier, monospace;
+        color: chartreuse;
+    }
+}
